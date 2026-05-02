@@ -1,3 +1,19 @@
+<!-- 
+
+Below authored script looked good enough to explore a personal project. I have forked the repository with the following details of origination.
+name: ai-ml-image-processing-script (Public)
+forked from ifeanyiro9/ai-ml-image-processing-script
+Today's date: 5-2-2026
+Origin URL: https://github.com/ifeanyiro9/ai-ml-image-processing-script
+URL: https://github.com/robhowe-A/ai-ml-image-processing-script
+
+Running steps (codespaces)
+#python -m pip install -r requirements.txt
+#python -m pip install imageai
+#python ai-image-processsing.py, #it is not a python module
+
+-->
+
 # Image Prediction AI/ML Project with ImageAI
 
 ## Introduction
