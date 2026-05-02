@@ -37,5 +37,4 @@ llama  :  6.3483
 
 ## Getting Started
 
-Replace "house.jpg" with the path to the image you want to predict, and run the prediction code
-
+Replace "40628437283_a17f4d3ccb_k.webp" with the path to the image you want to predict, and run the prediction code
